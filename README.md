@@ -1,3 +1,3 @@
-# Problem-Set-2
+# Final Project Economic Data
 
-csv file for testing of time series decomposition. 
+Data files required for the project are stored here.
